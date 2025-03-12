@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Coe]
-  first_name: [Ryan, G.]
+  first_name: [Ryan G.]
 
   style: apa
   locale: en
