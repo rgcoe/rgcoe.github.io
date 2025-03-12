@@ -504,7 +504,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0003-0738-3772# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0000-0003-0738-3772", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Ryan-Coe-2/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -519,6 +526,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=i6ahrYgAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=55532590700", "_blank");
         },
       },{
       id: 'light-theme',
