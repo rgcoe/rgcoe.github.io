@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"manuel":
+  - firstname: ["Lance", "L."]
+    url: https://www.caee.utexas.edu/people/faculty/faculty-directory/manuel
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"korde":
+  - firstname: ["Umesh", "Umesh A.", "U.", "U. A."]
+    url: https://engineering.jhu.edu/faculty/umesh-korde/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bacelli":
+  - firstname: ["Giorgio"]
+    url: https://energy.sandia.gov/staff/giorgio-bacelli/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"sharman":
+  - firstname: ["Krish P.", "Krish", "Krish Thiagarajan"]
+    url: https://www.umass.edu/engineering/about/directory/krish-thiagarajan-sharman
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"thiagarajan":
+  - firstname: ["Krish P.", "Krish"]
+    url: https://www.umass.edu/engineering/about/directory/krish-thiagarajan-sharman
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"plueddemann":
+  - firstname: ["Albert", "Al", "Albert J."]
+    url: https://www.whoi.edu/profile/aplueddemann/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"brekken":
+  - firstname: ["Ted", "Ted K. A.", "T. K. A."]
+    url: https://engineering.oregonstate.edu/people/ted-brekken
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"lavidas":
+  - firstname: ["George"]
+    url: https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/sections/offshore-engineering/staff-1/george-lavidas?0%5BL%5D=1&cHash=873267ccce653ce60f908ae9d33061c6
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"sergiienko":
+  - firstname: ["Nataliia Y.", " Nataliia"]
+    url: https://researchers.adelaide.edu.au/profile/nataliia.sergiienko
+
+"lomonaco":
+  - firstname: ["Pedro"]
+    url: https://engineering.oregonstate.edu/people/pedro-lomonaco
+
+"hamilton":
+  - firstname: ["Andrew", "J. Andrew"]
+    url: https://www.mbari.org/person/j-andrew-hamilton/
+
+"abdelkhalik":
+  - firstname: ["Ossama"]
+    url: https://www.engineering.iastate.edu/people/profile/ossama/
+
+"weaver":
+  - firstname: ["Wayne", "Wayne W."]
+    url: https://www.mtu.edu/mechanical-aerospace/people/faculty/weaver/
