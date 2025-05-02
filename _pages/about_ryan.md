@@ -1,0 +1,3 @@
+Ryan Coe received a B.S. degree in Ocean Engineering (2009) and a Ph.D. in Aerospace Engineering (2013), both from Virginia Tech.
+In 2013, Ryan joined Sandia National Laboratories' Water Power Technologies group where he served as a research engineer until 2026.
+Ryan’s research focuses primarily on wave energy converters (WEC) modeling, testing, control, and design. Ryan is an Associate Editor for the _Journal of Waterway, Port, Coastal, and Ocean Engineering_, the _Journal of Offshore Mechanics and Arctic Engineering_, and the _Journal of Ocean Engineering and Marine Energy_ and an Editorial Board member for _Energies_.

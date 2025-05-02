@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-24
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+After many years of wonderful work at Sandia National Labs, I will be moving to Virginia Tech in January, 2026

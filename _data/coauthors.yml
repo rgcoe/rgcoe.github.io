@@ -23,7 +23,7 @@
     url: https://www.whoi.edu/profile/aplueddemann/
 
 "brekken":
-  - firstname: ["Ted", "Ted K. A.", "T. K. A."]
+  - firstname: ["Ted", "Ted K. A.", "T. K. A.", "Ted K.A."]
     url: https://engineering.oregonstate.edu/people/ted-brekken
 
 "lavidas":
@@ -49,3 +49,31 @@
 "weaver":
   - firstname: ["Wayne", "Wayne W."]
     url: https://www.mtu.edu/mechanical-aerospace/people/faculty/weaver/
+
+"ringwood":
+  - firstname: ["John", "John V."]
+    url: https://www.maynoothuniversity.ie/people/john-ringwood
+
+"yu":
+  - firstname: ["Yi-Hsiang"]
+    url: https://scholar.nycu.edu.tw/en/persons/yi-hsiang-yu
+
+"lawson":
+  - firstname: ["Michael", "Michael J."]
+    url: https://research-hub.nrel.gov/en/persons/michael-lawson
+
+"robertson":
+  - firstname: ["Bryson"]
+    url: https://engineering.oregonstate.edu/people/bryson-robertson
+
+"bosma":
+  - firstname: ["Bret"]
+    url: https://engineering.oregonstate.edu/people/bret-bosma
+
+"forbush":
+  - firstname: ["Dominic", "Dominic D."]
+    url: https://energy.sandia.gov/staff/dominic-forbush/
+
+"spinneken":
+  - firstname: ["Johannes"]
+    url: https://www.evergreeninnovations.co/team/
