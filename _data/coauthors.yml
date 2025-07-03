@@ -77,3 +77,11 @@
 "spinneken":
   - firstname: ["Johannes"]
     url: https://www.evergreeninnovations.co/team/
+
+"michelen":
+  - firstname: ["Carlos", "Carlos A."]
+    url: https://energy.sandia.gov/staff/carlos-michelen/
+
+"strofer":
+  - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen"]
+    url: https://energy.sandia.gov/staff/carlos-michelen/
