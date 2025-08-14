@@ -1,81 +1,47 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Pioneer WEC
+description: wave energy for ocean observing
+img: assets/img/Pioneer_buoys_on_fantail.jpg
 importance: 1
-category: work
+category: current
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The National Science Foundation's [Ocean Observatories Initiative (OOI)](https://oceanobservatories.org) fields a large set of oceanographic instruments as part of the [Pioneer Array](https://oceanobservatories.org/array/coastal-pioneer-mid-atlantic-bight-array/), which is operated by [Woods Hole Oceanographic Institution](https://www.whoi.edu).
+Within the Pioneer Array, a series of [Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) collect data at surface, within the water column, and at the sea floor.
+These moorings currently rely on solar and wind power, and achieve full operability approximately 70% of their deployments.
+Low power periods, due to lulls in wind/solar energy and/or damage to generation systems, requires duty-cycling of instruments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoys_on_fantail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoy.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoy_with_armstrong.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Images of Pioneer Array Coastal Surface Mooring buoys, courtesy of Ocean Observatories Initiative (OOI).
 </div>
+
+Sandia, in partnership with [NREL](https://www.nrel.gov), [Evergreen Innovations](https://www.evergreeninnovations.co), [Johns Hopkins University](https://www.jhu.edu), and [East Carolina University Coastal Studies Institute](https://www.coastalstudiesinstitute.org), was tasked with developing a wave energy converter to supplement the Pioneer Array's [Central Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) with additional power {% cite Coe:2023aa %}.
+The deployment site for the Pioneer Array off the coast of Cape Hatteras, NC experiences modest waves, except during hurricanes {% cite Grasberger:2025ab %}.
+Based on a need to minimize the impact of the wave energy converter on the existing system design and maximize modularity, an innovative "pitch resonator" concept was pursued {% cite Devin:2024aa Lee:2025aa %}.
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_v0_bench.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_lamp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Other resources
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<iframe width="230" height="150" src="https://www.youtube.com/embed/Tx8KqHqVaDk?si=YBoGnN8XTvBbn-QP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="230" height="150" src="https://www.youtube.com/embed/ic-ivEF9eTs?si=zWGnxyTDjzCgYuAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

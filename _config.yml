@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Coe lab group # the website title (if blank, full name will be used instead)
 first_name: Ryan
 middle_name: G.
 last_name: Coe
@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: ryan g. coe, wave energy converter, wec # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rgcoe.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -121,12 +121,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -143,13 +137,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   notes:
     output: true
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
 
@@ -173,12 +167,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _news.md
   - _pages/blog.md
-  - _pages/teaching.md
   - _pages/books.md
   - _pages/repositories.md
-  - _pages/projects.md
-  - _pages/cv.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -204,6 +196,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-numbered-headings
   - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed

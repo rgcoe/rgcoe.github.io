@@ -1,15 +1,18 @@
 ---
 layout: page
-title: submenus
-nav: true
-nav_order: 8
-dropdown: true
+title: more
+nav: false
+nav_order:
+dropdown: false
 children:
-  - title: news
-    permalink: /news/
+  - title: projects
+    permalink: /projects/
   - title: divider
-  - title: people
-    permalink: /people/
+  - title: publications
+    permalink: /publications/
+  - title: divider
+  - title: teaching
+    permalink: /teaching/
   - title: divider
   - title: notes
     permalink: /notes/

@@ -3,8 +3,8 @@ layout: page
 permalink: /notes/
 title: notes
 description: helpful notes
-nav: false
-nav_order:
+nav: true
+nav_order: 6
 ---
 
 <!-- pages/projects.md -->

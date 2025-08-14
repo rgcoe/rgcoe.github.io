@@ -1,8 +1,11 @@
 ---
-layout: about
+layout: default
 title: about
 permalink: /
-subtitle: Sandia National Laboratories
+subtitle:
+
+images:
+  slider: true
 
 profile:
   align: right
@@ -15,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -25,7 +28,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an ocean engineer interested in renewable energy, autonomous systems, system design, and fluid dynamics.
+# Coe lab group
+
+Our research group is interested in ocean engineering problems with a focus on system design, fluid dynamics, autonomous systems, and renewable energy.
+We apply holistic "control co-design" approaches to the problems.
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/FOSWEC_from_above.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Dom_Ryan_electrical.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/SIWEED_demo_day.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/WaveBot_Kevin_Ryan_working.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/FOSWEC_Ryan_Kayak.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/WaveBot_splash.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/FOSWEC_workshop.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
