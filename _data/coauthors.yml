@@ -85,3 +85,19 @@
 "strofer":
   - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen"]
     url: https://energy.sandia.gov/staff/carlos-michelen/
+
+"cho":
+  - firstname: ["Hancheol"]
+    url: https://yonsei.elsevierpure.com/en/persons/hancheol-cho
+
+"gaebele":
+  - firstname: ["Daniel", "Daniel T."]
+    url: https://energy.sandia.gov/staff/daniel-gaebele/
+
+"toole":
+  - firstname: ["John", "John M."]
+    url: https://www2.whoi.edu/staff/jtoole/
+
+"keow":
+  - firstname: ["Alicia"]
+    url: https://energy.sandia.gov/staff/alicia-keow/
