@@ -10,8 +10,8 @@ related_publications: true
 
 The National Science Foundation's [Ocean Observatories Initiative (OOI)](https://oceanobservatories.org) fields a large set of oceanographic instruments as part of the [Pioneer Array](https://oceanobservatories.org/array/coastal-pioneer-mid-atlantic-bight-array/), which is operated by [Woods Hole Oceanographic Institution](https://www.whoi.edu).
 Within the Pioneer Array, a series of [Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) collect data at surface, within the water column, and at the sea floor.
-These moorings currently rely on solar and wind power, and achieve full operability approximately 70% of their deployments.
-Low power periods, due to lulls in wind/solar energy and/or damage to generation systems, requires duty-cycling of instruments.
+These moorings currently rely on solar and wind power, and achieve full operability approximately 70% of the time during their deployments.
+Low power periods, due to lulls in wind/solar energy and/or damage to generation systems, require duty-cycling of instruments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
