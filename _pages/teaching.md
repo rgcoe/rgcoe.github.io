@@ -11,6 +11,15 @@ nav_order: 5
 
 Introduction to the design of ocean vehicles and offshore structures with speficic topics including buoyancy, hull geometry, body plan drawing, coefficients of form, hydrostatic calculations, intact and damaged stability, large angle stability, stability criteria for design and related rules and regulations, and marine economics.
 
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/lighthouse.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DDG71.jpg" title="DDG-71" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 # (Advanced) Ship dynamics (AOE 4334, AOE 5334)
 
 Analysis of motions of rigid body vehicles in water, including influence of added mass and buoyancy.
