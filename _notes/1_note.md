@@ -2,7 +2,7 @@
 layout: page
 title: Reproducible papers
 description: making your work more useful for others (and the future you)
-img: assets/img/12.jpg
+img: assets/img/9.jpg
 importance: 1
 category: work
 ---

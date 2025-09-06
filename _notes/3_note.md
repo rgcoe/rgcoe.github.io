@@ -2,7 +2,7 @@
 layout: page
 title: LaTeX best-practices
 description: write and collaborate more cleanly
-img: assets/img/LaTeX_logo.svg
+img: assets/img/latex_example.jpg
 importance: 1
 category: work
 ---
