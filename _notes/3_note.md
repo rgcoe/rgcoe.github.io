@@ -28,7 +28,7 @@ Here's a list of "best-practices" I've come up with:
 \end{figure}
 ```
 
-- One sentence per line (allows for better `git` tracking); this means a paragraph will look like
+- One sentence per line (allows for better `git` tracking and [SyncTex](https://github.com/jlaurens/synctex)); this means a paragraph will look like
 
 ```latex
 This is my first sentence.
