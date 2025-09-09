@@ -101,3 +101,19 @@
 "keow":
   - firstname: ["Alicia"]
     url: https://energy.sandia.gov/staff/alicia-keow/
+
+"neary":
+  - firstname: ["Vincent", "Vincent S.", "Vince", "Vince S."]
+    url: https://energy.sandia.gov/staff/vincent-neary/
+
+"kobos":
+  - firstname: ["Peter", "Peter H."]
+    url: https://energy.sandia.gov/staff/peter-kobos/
+
+"mackay":
+  - firstname: ["Ed"]
+    url: https://experts.exeter.ac.uk/27038-ed-mackay
+
+"haselsteiner":
+  - firstname: ["Andreas", "Andreas F."]
+    url: https://ahaselsteiner.github.io
