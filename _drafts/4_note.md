@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student/advisor expectations
-description: 
+description:
 img: assets/img/1.jpg
 importance: 1
 category: work

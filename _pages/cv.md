@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: cv
 nav: false
-nav_order: 
+nav_order:
 description: Dr. Coe's CV
 # toc:
 #   sidebar: left
