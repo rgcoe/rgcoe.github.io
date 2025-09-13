@@ -40,8 +40,20 @@ Based on a need to minimize the impact of the wave energy converter on the exist
         {% include figure.liquid loading="eager" path="assets/img/Pioneer_lamp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Bench testing of the Pioneer WEC v0 prototype.
+</div>
 
 ## Other resources
 
-<iframe width="230" height="150" src="https://www.youtube.com/embed/Tx8KqHqVaDk?si=YBoGnN8XTvBbn-QP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="230" height="150" src="https://www.youtube.com/embed/ic-ivEF9eTs?si=zWGnxyTDjzCgYuAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/Tx8KqHqVaDk" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/ic-ivEF9eTs" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/ic-ivEF9eTs" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
