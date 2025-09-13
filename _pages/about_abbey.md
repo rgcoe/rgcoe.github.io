@@ -1,1 +1,1 @@
-Abbey is a dog
+**Abbey** is a dog.

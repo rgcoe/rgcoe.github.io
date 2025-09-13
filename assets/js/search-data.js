@@ -57,11 +57,6 @@ ninja.data = [{
           description: "making your work more useful for others (and the future you)",
           section: "Notes",handler: () => {
               window.location.href = "/notes/1_note/";
-            },},{id: "notes-macos-set-up",
-          title: 'macOS set-up',
-          description: "Setting up a mac for scientific computing",
-          section: "Notes",handler: () => {
-              window.location.href = "/notes/2_note/";
             },},{id: "notes-latex-best-practices",
           title: 'LaTeX best-practices',
           description: "write and collaborate more cleanly",
@@ -102,6 +97,11 @@ ninja.data = [{
           description: "fundamental WEC dynamics and controls",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-swept-lab",
+          title: 'SWEPT Lab',
+          description: "Sandia wave energy power take-off lab",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-github',
         title: 'GitHub',
