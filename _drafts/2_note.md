@@ -5,6 +5,7 @@ description: Setting up a mac for scientific computing
 img: assets/img/12.jpg
 importance: 1
 category: work
+exclude: true
 ---
 
 For me, macOS offers an expensive, but more user friendly alternative to Linux.
