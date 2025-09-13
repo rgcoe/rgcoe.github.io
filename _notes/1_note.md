@@ -86,7 +86,7 @@ Testing your code is something most of us do without thinking of it to check our
 We can take advantage of the testing tools used by software developers in our research projects to make sure we're not publishing mistakes.
 
 - [pytest for Python projects](https://docs.pytest.org/en/stable/)
-- [MATLAB's unit-test framework](https://www.mathworks.com/help/matlab/matlab-unit-test-framework.html)
+- MATLAB's unit-test framework
 
 #1. Archiving
 [Zenodo](https://zenodo.org) provides an excellent tool for archiving data and source code (direct integration with GitHub).
