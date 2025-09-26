@@ -10,8 +10,6 @@ related_publications: true
 
 Then Floating Oscillating Surge Wave Energy Converter (FOSWEC) is a tension leg moored dual flap device.
 The two flaps operate in close proximity and have significant cross coupling effects, both from hydrodynamics and rigid body motions {% cite Forbush:2022aa %}.
-The FOSWEC was first developed as part of the [WEC-Sim project](https://wec-sim.github.io/WEC-Sim/main/index.html), and then adapted to perform tests more focused at fundamental dynamics and controls {% cite Coe:2020ab %}.
-In both cases, testing was performed at [Oregon State University's O.H. Hinsdale Wave Research Laboratory](https://engineering.oregonstate.edu/wave-lab).
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -24,3 +22,8 @@ In both cases, testing was performed at [Oregon State University's O.H. Hinsdale
 <div class="caption">
     Floating Oscillating Surge Wave Energy Converter (FOSWEC) being tested at Oregon State University's O.H. Hinsdale Wave Research Laboratory.
 </div>
+
+The FOSWEC was first developed as part of the [WEC-Sim project](https://wec-sim.github.io/WEC-Sim/main/index.html), and then adapted to perform tests more focused at fundamental dynamics and controls {% cite Coe:2020ab %}.
+In both cases, testing was performed at [Oregon State University's O.H. Hinsdale Wave Research Laboratory](https://engineering.oregonstate.edu/wave-lab).
+
+{% include video.liquid path="https://www.youtube.com/embed/OUxbaEC2K6Y?si=pAQMypWw-PwDYlx1" class="img-fluid rounded z-depth-1" %}

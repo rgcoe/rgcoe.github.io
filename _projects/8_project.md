@@ -39,3 +39,17 @@ It became clear that the critical problem for wave energy was not finding the be
         {% include figure.liquid loading="eager" path="assets/img/WaveBot_tower.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+## Other resources
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/c4npWk_-Pjk?si=0mnMXPc03iPTIbq2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/4HSYZDuVdZg?si=Jcd6FA91RS7KPth-" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/XCB12Het4c4?si=FS42JxWhS3JW6YbR" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

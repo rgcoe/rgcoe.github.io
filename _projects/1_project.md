@@ -30,7 +30,7 @@ Low power periods, due to lulls in wind/solar energy and/or damage to generation
 
 Sandia, in partnership with [NREL](https://www.nrel.gov), [Evergreen Innovations](https://www.evergreeninnovations.co), [Johns Hopkins University](https://www.jhu.edu), and [East Carolina University Coastal Studies Institute](https://www.coastalstudiesinstitute.org), was tasked with developing a wave energy converter to supplement the Pioneer Array's [Central Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) with additional power {% cite Coe:2023aa %}.
 The deployment site for the Pioneer Array off the coast of Cape Hatteras, NC experiences modest waves, except during hurricanes {% cite Grasberger:2025ab %}.
-Based on a need to minimize the impact of the wave energy converter on the existing system design and maximize modularity, an innovative "pitch resonator" concept was pursued {% cite Devin:2024aa Lee:2025aa %}.
+Based on a need to minimize the impact of the wave energy converter on the existing system design and maximize modularity, an innovative "pitch resonator" concept was pursued {% cite Devin:2024aa Lee:2025aa Keow:2025aa %}.
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">

@@ -16,5 +16,11 @@ Based on these findings, the SWEPT Lab was designed to perform bench testing on 
 
 ## Other resources
 
-{% include video.liquid path="https://www.youtube.com/embed/rMaL9X5v-YU" class="img-fluid rounded z-depth-1" %}
-{% include video.liquid path="https://www.youtube.com/embed/IQgPLUfttN8" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/rMaL9X5v-YU" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/IQgPLUfttN8" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
