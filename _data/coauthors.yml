@@ -7,7 +7,7 @@
     url: https://engineering.jhu.edu/faculty/umesh-korde/
 
 "bacelli":
-  - firstname: ["Giorgio"]
+  - firstname: ["Giorgio", "G.", "G"]
     url: https://energy.sandia.gov/staff/giorgio-bacelli/
 
 "sharman":
@@ -43,7 +43,7 @@
     url: https://www.mbari.org/person/j-andrew-hamilton/
 
 "abdelkhalik":
-  - firstname: ["Ossama"]
+  - firstname: ["Ossama", "O", "O."]
     url: https://www.engineering.iastate.edu/people/profile/ossama/
 
 "weaver":
@@ -83,7 +83,7 @@
     url: https://energy.sandia.gov/staff/carlos-michelen/
 
 "strofer":
-  - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen"]
+  - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen", "Carlos A. Michelén"]
     url: https://energy.sandia.gov/staff/carlos-michelen/
 
 "cho":
@@ -103,7 +103,7 @@
     url: https://energy.sandia.gov/staff/alicia-keow/
 
 "neary":
-  - firstname: ["Vincent", "Vincent S.", "Vince", "Vince S."]
+  - firstname: ["Vincent", "Vincent S.", "Vincent S", "Vince", "Vince S."]
     url: https://energy.sandia.gov/staff/vincent-neary/
 
 "kobos":
@@ -117,3 +117,43 @@
 "haselsteiner":
   - firstname: ["Andreas", "Andreas F."]
     url: https://ahaselsteiner.github.io
+
+"griffith":
+  - firstname: ["Todd", "D. Todd"]
+    url: https://me.utdallas.edu/people/faculty/todd-griffith/
+
+"cazzolato":
+  - firstname: ["Benjamin", "Benjamin S."]
+    url: https://researchers.adelaide.edu.au/profile/benjamin.cazzolato
+
+"gish":
+  - firstname: ["L. Andrew", "Andrew"]
+    url: https://www.usna.edu/NAOE/faculty/gish.php
+
+"gunawan":
+  - firstname: ["Budi"]
+    url: https://energy.sandia.gov/staff/budi-gunawan/
+
+"roberts":
+  - firstname: ["Jesse", "Jesse D."]
+    url: https://energy.sandia.gov/staff/jesse-roberts/
+
+"jones":
+  - firstname: ["Craig", "Craig A."]
+    url: https://www.integral-corp.com/staff/craig-a-jones-ph-d/
+
+"mazumdar":
+  - firstname: ["Anirban"]
+    url: https://me.gatech.edu/faculty/mazumdar
+
+"haas":
+  - firstname: ["Kevin", "Kevin A."]
+    url: https://ce.gatech.edu/directory/person/kevin-haas
+
+"lawson":
+  - firstname: ["Mike", "Michael", "Michael J."]
+    url: https://research-hub.nrel.gov/en/persons/michael-lawson
+
+"zuo":
+  - firstname: ["Shangyan", "S"]
+    url: https://www.mtu.edu/mechanical-aerospace/people/faculty/zou/
