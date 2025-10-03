@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 The [X-SPAR](https://www2.whoi.edu/site/casimas/currentprojects/x-spar/) is a floating spar buoy designed for oceanographic measurements, particularly air-sea interactions, developed by [Woods Hole Oceanographic Institution](https://www.whoi.edu).
-The low-cost buoy is meant to be expandible.
+The low-cost buoy is meant to be _expandible_.
 Sandia is working with Woods Hole and Johns Hopkins University to augment the X-SPAR with a wave energy converter (the "WEC-SPAR").
 After an initial scoping study {% cite Gaebele:2025aa %}, the team is now performing de-risk testing on a oscillating water column (OWC) drive-train.
 

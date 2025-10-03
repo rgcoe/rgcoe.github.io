@@ -9,7 +9,7 @@ giscus_comments: false
 related_publications: true
 ---
 
-With a "advanced control" being spoken of in wave energy circles as a panacea for the technology's problems, our team set out to better understand the potential.
+With "advanced control" being spoken of in wave energy circles as a panacea for the technology's problems, our team set out to better understand the potential.
 To perform our investigation, we developed a heave-surge-pitch motion buoy dubbed the "WaveBot," which was tested during a series of campaigns at the US Navy's Maneuvering and Sea Keeping (MASK) basin at NSWC Carderock, in Bethesda, MD.
 
 <div class="row">
@@ -27,7 +27,7 @@ To perform our investigation, we developed a heave-surge-pitch motion buoy dubbe
     Sandia National Laboratories "WaveBot" during testing at US Navy's Maneuvering and Sea Keeping (MASK) basin at NSWC Carderock, in Bethesda, MD.
 </div>
 
-Our team quickly found many that different control strategies could provide similar performance {% cite Coe:2017aa %}, but that more significant immediate challenges were in obtaining better empirical models {% cite Bacelli:2017aa %}.
+Our team quickly found that many different control strategies could provide similar performance {% cite Coe:2017aa %}, but that the more significant immediate challenges were in obtaining better empirical models {% cite Bacelli:2017aa %}.
 To this end, we made significant strides in hardware-in-the-loop testing of wave energy converters {% cite Bacelli:2019aa %} and the application of relatively simple controllers {% cite Bacelli:2020aa Forbush:2020aa Coe:2021ab Forbush:2022ab %}.
 It became clear that the critical problem for wave energy was not finding the best control algorithm, but designing the device with a more clear understanding of the system dynamics (including impact of the controller) {% cite Coe:2023ac %}.
 

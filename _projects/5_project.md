@@ -10,8 +10,9 @@ images:
   slider: true
 ---
 
-The Sandia Integrated Wave Energy Educational Display (SIWEED) is a fish tank scale wave tank and wave energy converter (WEC) designed to support outreach and education.
-An interactive touch screen graphic user interface allows the user to control the waves and the WEC's feedback controller to allow users to experiment with some of the basic concepts developed by our team's research {% cite Coe:2021ab %}.
+The Sandia Integrated Wave Energy Educational Display (SIWEED) is a fish tank sized wave tank and wave energy converter (WEC) designed to support outreach and education.
+The WEC itself is based loosely on the [WaveBot](/projects/8_project).
+An interactive touch screen graphic user interface allows the user to control the waves and the WEC's feedback controller and experiment with some of the basic concepts developed by our team's research {% cite Coe:2021ab %}.
 This intern-led project was presented at at White House event titled "American Possibilities" in November, 2023 and was reviewed by president Joe Biden.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
@@ -23,5 +24,7 @@ This intern-led project was presented at at White House event titled "American P
 
 The project available for replication based on a [GitHub repository](https://github.com/SNL-WaterPower/siweed) and a journal paper: {% cite Ross:2025aa %}.
 The SIWEED now resides at the [Coastal Studies Institute](https://www.coastalstudiesinstitute.org) in Wanchese, NC, where it is enjoyed by hundreds of summer campers each year.
+
+## Other resources
 
 {% include video.liquid path="https://www.youtube.com/embed/PcOHZWLTsHc?si=U_zU1NC0r5kMpdgE" class="img-fluid rounded z-depth-1" %}
