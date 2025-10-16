@@ -30,7 +30,8 @@ Low power periods, due to lulls in wind/solar energy and/or damage to generation
 
 Sandia, in partnership with [NREL](https://www.nrel.gov), [Evergreen Innovations](https://www.evergreeninnovations.co), [Johns Hopkins University](https://www.jhu.edu), and [East Carolina University Coastal Studies Institute](https://www.coastalstudiesinstitute.org), was tasked with developing a wave energy converter to supplement the Pioneer Array's [Central Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) with additional power {% cite Coe:2023aa %}.
 The deployment site for the Pioneer Array off the coast of Cape Hatteras, NC experiences modest waves, except during hurricanes {% cite Grasberger:2025ab %}.
-Based on a need to minimize the impact of the wave energy converter on the existing system design and maximize modularity, an innovative "pitch resonator" concept is being pursued {% cite Devin:2024aa Lee:2025aa Keow:2025aa %}.
+Based on a need to minimize the impact of the wave energy converter on the existing system design and maximize modularity, an innovative "pitch resonator" concept is being pursued {% cite Devin:2024aa Keow:2025aa %}.
+A series of bench testing campaigns have helped to refine numerical models for performance prediction, control tuning, and future design improvements {%cite Coe:2024ab Lee:2025aa %}.
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -49,9 +50,6 @@ Based on a need to minimize the impact of the wave energy converter on the exist
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/Tx8KqHqVaDk" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-2 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/ic-ivEF9eTs" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/ic-ivEF9eTs" class="img-fluid rounded z-depth-1" %}
