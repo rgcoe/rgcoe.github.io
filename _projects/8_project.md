@@ -27,8 +27,8 @@ To perform our investigation, we developed a heave-surge-pitch motion buoy dubbe
     Sandia National Laboratories "WaveBot" during testing at US Navy's Maneuvering and Sea Keeping (MASK) basin at NSWC Carderock, in Bethesda, MD.
 </div>
 
-Our team quickly found that many different control strategies could provide similar performance {% cite Coe:2017aa %}, but that the more significant immediate challenges were in obtaining better empirical models {% cite Bacelli:2017aa %}.
-To this end, we made significant strides in hardware-in-the-loop testing of wave energy converters {% cite Bacelli:2019aa %} and the application of relatively simple controllers {% cite Bacelli:2020aa Forbush:2020aa Coe:2021ab Forbush:2022ab %}.
+Our team quickly found that many different control strategies could provide similar performance {% cite Coe:2017aa %}, but that the more significant immediate challenges were in obtaining better empirical models {% cite Bacelli:2017aa Bosma:2025aa Gaebele:2025ab %}.
+To this end, we made significant strides in hardware-in-the-loop testing of wave energy converters {% cite Bacelli:2019aa %} and the application of relatively simple controllers {% cite Bacelli:2020aa Forbush:2020aa Coe:2021ab Forbush:2022ab Shifat:2025aa %}.
 It became clear that the critical problem for wave energy was not finding the best control algorithm, but designing the device with a more clear understanding of the system dynamics (including impact of the controller) {% cite Coe:2023ac %}.
 
 <div class="row">
