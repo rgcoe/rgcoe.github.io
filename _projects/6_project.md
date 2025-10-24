@@ -2,7 +2,7 @@
 layout: page
 title: WEC co-design
 description: holistic design of wave energy converters
-img: assets/img/wec_as_multiport_in_and_out_impedances_Jd.png
+img: assets/img/wec_as_multiport_in_and_out_impedances_Jd_cropped.png
 importance: 1
 category: current
 related_publications: true

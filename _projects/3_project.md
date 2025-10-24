@@ -2,7 +2,7 @@
 layout: page
 title: Extreme conditions modeling
 description: designing for the 100-year wave
-img: assets/img/storm_grouping_kde.jpg
+img: assets/img/storm_grouping_kde_cropped.jpg
 importance: 4
 category: past
 related_publications: true

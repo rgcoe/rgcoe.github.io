@@ -2,7 +2,7 @@
 layout: page
 title: SIWEED
 description: Sandia integrated wave energy educational display
-img: assets/img/SIWEED_demo_day.jpg
+img: assets/img/SIWEED_demo_day_cropped.jpg
 importance: 3
 category: past
 related_publications: true

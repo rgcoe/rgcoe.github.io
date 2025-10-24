@@ -2,7 +2,7 @@
 layout: page
 title: Pioneer WEC
 description: wave energy for ocean observing
-img: assets/img/Pioneer_buoys_on_fantail.jpg
+img: assets/img/Pioneer_buoys_on_deck.jpg
 importance: 1
 category: current
 related_publications: true

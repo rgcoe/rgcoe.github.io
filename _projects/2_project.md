@@ -2,7 +2,7 @@
 layout: page
 title: WEC-spar
 description: wave energy on an ocean observing spar buoy
-img: assets/img/Xspar_lift.jpg
+img: assets/img/Xspar_lift_cropped.jpg
 importance: 2
 category: current
 related_publications: true

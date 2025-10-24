@@ -2,7 +2,7 @@
 layout: page
 title: SWEPT Lab
 description: Sandia wave energy power take-off lab
-img: assets/img/SWEPT_pistons.jpg
+img: assets/img/SWEPT_pistons_cropped.jpg
 importance: 2
 category: past
 giscus_comments: false

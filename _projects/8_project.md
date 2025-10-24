@@ -2,7 +2,7 @@
 layout: page
 title: WaveBot
 description: fundamental WEC dynamics and controls
-img: assets/img/WaveBot_still_water.jpg
+img: assets/img/WaveBot_still_water_cropped.jpg
 importance: 2
 category: past
 giscus_comments: false

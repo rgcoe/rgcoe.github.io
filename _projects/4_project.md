@@ -2,7 +2,7 @@
 layout: page
 title: FOSWEC
 description: floating oscillating surge wave energy converter
-img: assets/img/FOSWEC_from_above.jpg
+img: assets/img/FOSWEC_from_above_cropped.jpg
 importance: 3
 category: past
 related_publications: true
