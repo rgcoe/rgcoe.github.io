@@ -14,13 +14,13 @@ To perform our investigation, we developed a heave-surge-pitch motion buoy dubbe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WaveBot_still_water.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WaveBot_still_water.jpg" title="WaveBot buoy at rest" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WaveBot_splash.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WaveBot_splash.jpg" title="WaveBot buoy during test" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WaveBot_Kevin_Ryan_working.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WaveBot_Kevin_Ryan_working.jpg" title="Engineers working on WaveBot buoy" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,10 +33,10 @@ It became clear that the critical problem for wave energy was not finding the be
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WaveBot_rvr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WaveBot_rvr.jpg" title="Engineers working on WaveBot heave tower" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WaveBot_tower.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WaveBot_tower.jpg" title="WaveBot heave tower during testing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

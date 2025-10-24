@@ -15,13 +15,13 @@ Low power periods, due to lulls in wind/solar energy and/or damage to generation
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoys_on_fantail.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoys_on_deck.jpg" title="OOI Pioneer Array Coastal Surface Mooring buoys on ship deck" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoy.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoy.jpg" title="OOI Pioneer Array Coastal Surface Mooring buoy at sea" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoy_with_armstrong.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_buoy_with_armstrong.jpg" title="OOI Pioneer Array Coastal Surface Mooring buoy with R/V Armstrong" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,10 +35,10 @@ A series of bench testing campaigns have helped to refine numerical models for p
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pioneer_v0_bench.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_v0_bench.jpg" title="Pioneer WEC v0 prototype bench testing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pioneer_lamp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pioneer_lamp.jpg" title="Pioneer WEC v0 prototype on motion platform" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
