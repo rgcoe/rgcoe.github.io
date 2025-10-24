@@ -27,6 +27,7 @@ Here's a list of "best-practices" I've come up with:
   \end{figure}
   ```
 - One sentence per line (allows for better `git` tracking and [SyncTex](https://github.com/jlaurens/synctex)); this means a paragraph will look like
+
   ```latex
   This is my first sentence.
   This is my second sentence.
@@ -35,6 +36,7 @@ Here's a list of "best-practices" I've come up with:
   This sentence begins a new paragraph.
   ...
   ```
+
 - For display equations (those that appear on their own line), use commented lines (`%`) to maintain the current paragraph if desired
   ```latex
   ... we may therefore write
