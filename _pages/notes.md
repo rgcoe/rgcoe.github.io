@@ -2,7 +2,7 @@
 layout: page
 permalink: /notes/
 title: notes
-description: helpful notes
+description: helpful guides
 nav: true
 nav_order: 6
 ---
