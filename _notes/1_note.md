@@ -8,22 +8,22 @@ category: work
 ---
 
 Making your work reproducible has many benefits.
-When others can easily reproduce your work, they're more likely to benefit from it and build from it.
-More selfishly, returning to a project years later will always be more easy if you organized your work for reproducibility.
+When others can easily reproduce your work, they're more likely to benefit from it and build on it.
+More selfishly, returning to a project years later will be much easier if you have organized your work for reproducibility.
 
 For me, the main challenges to achieving archival reproducibility are:
 
 - Versioning and tagging
 - Data/source organization
-- Set-up and supporting libraries, packages, etc.
+- Setup and supporting libraries, packages, etc.
 - Clear sequential steps
 
-Depending on the on the paper, this can be easier or harder.
+Depending on the paper, this can be easier or harder.
 However, the following steps provide a general formula for success.
 
 #1. Create a GitHub repo
 If this is truly a new endeavor, make a new repo.
-If it's more of an extension, fork an existing repo and/or make a branch -- this will allow you to reuse the previous work with a specific version (commit).
+If it's more of an extension, fork an existing repo or make a branch — this will allow you to reuse the previous work with a specific version (commit).
 
 #1. Structure the repo
 I suggest something like the structure shown below, noting the following:
@@ -57,10 +57,10 @@ I suggest something like the structure shown below, noting the following:
 #1. Set-up instructions
 
 ##1. Python
-In the ideal scenario, you make everything clean enough that the set up instructions (provided in `README.md`) go something like
+In the ideal scenario, you make everything clean enough that the setup instructions (provided in `README.md`) go something like:
 
 ```markdown
-1. make a dedicated python environment, .e.g, `conda env create -n repo_name pip`
+1. make a dedicated Python environment, e.g., `conda env create -n repo_name pip`
 2. activate the environment: `conda activate repo_name`
 3. clone the repository: `git clone git@github.com:org_name/repo_name.git`
 4. install the package from the cloned repository: `pip install -e repo_name`
@@ -77,7 +77,7 @@ In MATLAB, it's harder to prescribe external dependencies:
 ```
 
 #1. Automation
-A great way to make sure your project is truly reproducible (will run on another machine, without some secret file that you forgot about) is to set up an automated build sequence.
+A great way to ensure your project is truly reproducible (i.e., will run on another machine without some secret file you forgot) is to set up an automated build sequence.
 You can do this with [GitHub Actions](https://github.com/features/actions) or other similar services.
 You can find an example of this for the [wec_as_multiport project](https://github.com/sandialabs/wec_as_multiport) here: [python-app.yml](https://github.com/sandialabs/wec_as_multiport/blob/main/.github/workflows/python-app.yml).
 
@@ -91,5 +91,5 @@ We can take advantage of the testing tools used by software developers in our re
 #1. Archiving
 [Zenodo](https://zenodo.org) provides an excellent tool for archiving data and source code (direct integration with GitHub).
 Providing a Zenodo DOI link in your paper to an archived release of your code and/or data is the gold standard.
-Note also that Zenodo will use the `CITATION.cff` file in your GitHub repo to direct people how to cite your work.
+Note also that Zenodo will use the `CITATION.cff` file in your GitHub repo to indicate how to cite your work.
 If you prefer that the paper (not the code) be cited, you can make that clear in the `cff` file with the `preferred-citation` key.

@@ -16,7 +16,7 @@ The two flaps operate in close proximity and have significant cross coupling eff
         {% include figure.liquid loading="eager" path="assets/img/FOSWEC_from_above.jpg" title="FOSWEC in test basin" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/FOSWEC_Ryan_Kayak.jpg" title="Visual inspection of FSOWEC in basin" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/FOSWEC_Ryan_Kayak.jpg" title="Visual inspection of FOSWEC in basin" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
