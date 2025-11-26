@@ -39,8 +39,9 @@ We apply "control co-design" approaches to consider holistic system performance.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/SIWEED_demo_day.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/WaveBot_Kevin_Ryan_working.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/FOSWEC_Ryan_Kayak.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/WaveBot_splash.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/WaveBot_splash_cropped3x2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/FOSWEC_workshop.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/Pioneer_ar98a_two_csms_on_deck_cropped3x2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
