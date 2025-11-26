@@ -24,9 +24,12 @@ profiles:
       scopus_id: 55532590700 # your profile on Scopus
 
   - align: left
-    image: prof_abbey.jpg
-    content: about_abbey.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Taos, NM</p>
+    content: about_new.md
+
+  # - align: left
+  #   image: prof_abbey.jpg
+  #   content: about_abbey.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>Taos, NM</p>
 ---
