@@ -16,6 +16,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
     socials:
+      email: ryancoe@vt.edu
       orcid_id: 0000-0003-0738-3772
       scholar_userid: i6ahrYgAAAAJ # your Google Scholar ID
       github_username: rgcoe
