@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "Academicons",
+    "Bacelli",
+    "bibtex",
+    "Crofton",
+    "Eckert",
+    "Forbush",
+    "FOSWEC",
+    "Gaebele",
+    "Grasberger",
+    "Haselsteiner",
+    "Hinsdale",
+    "Keow",
+    "mechatronics",
+    "Michelen",
+    "MIMO",
+    "NREL",
+    "SIWEED",
+    "Strofer",
+    "Wanchese",
+    "Zenodo"
+  ],
+  "[liquid]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
