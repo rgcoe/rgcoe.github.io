@@ -9,8 +9,8 @@ related_publications: true
 ---
 
 The National Science Foundation's [Ocean Observatories Initiative (OOI)](https://oceanobservatories.org) fields a large set of oceanographic instruments as part of the [Pioneer Array](https://oceanobservatories.org/array/coastal-pioneer-mid-atlantic-bight-array/), which is operated by [Woods Hole Oceanographic Institution](https://www.whoi.edu).
-Within the Pioneer Array, a series of [Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) collect data at surface, within the water column, and at the sea floor.
-These moorings currently rely on solar and wind power, and achieve full operability approximately 70% of the time during their deployments.
+Within the Pioneer Array, a series of [Coastal Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/), which collect data at surface, within the water column, and at the sea floor.
+These moorings typically rely on solar and wind power, and achieve full operability approximately 70% of the time during their deployments.
 Low power periods, due to lulls in wind/solar energy and/or damage to generation systems, require duty-cycling of instruments.
 
 <div class="row">
@@ -28,10 +28,10 @@ Low power periods, due to lulls in wind/solar energy and/or damage to generation
     Images of Pioneer Array Coastal Surface Mooring buoys, courtesy of Ocean Observatories Initiative (OOI).
 </div>
 
-Sandia, in partnership with [Woods Hole Oceanographic Institution](https://www.whoi.edu), [NREL](https://www.nrel.gov), [Evergreen Innovations](https://www.evergreeninnovations.co), [Johns Hopkins University](https://www.jhu.edu), [Monterey Bay Aquarium Research Institute](https://www.mbari.org), and [East Carolina University Coastal Studies Institute](https://www.coastalstudiesinstitute.org), was tasked with developing a wave energy converter to supplement the Pioneer Array's [Central Surface Moorings](https://oceanobservatories.org/site/cp10cnsm/) with additional power {% cite Coe:2023aa %}.
-The deployment site for the Pioneer Array off the coast of Cape Hatteras, NC experiences relatively modest waves, except during hurricanes {% cite Grasberger:2025ab %}.
-Based on a need to minimize the impact of the wave energy converter on the existing system design and maximize modularity, an innovative "pitch resonator" concept was developed {% cite Devin:2024aa Keow:2025aa %}.
-A series of bench testing campaigns have helped to refine numerical models for performance prediction, control tuning, and future design improvements {%cite Coe:2024ab Lee:2025aa %}.
+Sandia, in partnership with [Woods Hole Oceanographic Institution](https://www.whoi.edu), [NREL](https://www.nrel.gov), [Evergreen Innovations](https://www.evergreeninnovations.co), [Johns Hopkins University](https://www.jhu.edu), [Monterey Bay Aquarium Research Institute](https://www.mbari.org), and [East Carolina University Coastal Studies Institute](https://www.coastalstudiesinstitute.org), was tasked with developing a wave energy converter to supplement the OOI Pioneer Array's [Central Surface Mooring](https://oceanobservatories.org/site/cp10cnsm/) with additional power {% cite Coe:2023aa %}.
+The deployment site for the Pioneer Array off the coast of Cape Hatteras, NC experiences relatively modest waves, except during hurricanes, with an average significant wave height of \~1.5m {% cite Grasberger:2025ab %}.
+Based on the need to maximize modularity and minimize the impact of the wave energy converter on the existing system design, an innovative "pitch resonator" wave energy concept was developed {% cite Devin:2024aa Keow:2025aa %}.
+A series of bench testing campaigns helped to refine numerical models for performance prediction, control tuning, and future design improvements {%cite Coe:2024ab Lee:2025aa %}.
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">

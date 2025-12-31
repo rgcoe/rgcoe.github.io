@@ -25,7 +25,7 @@ The two flaps operate in close proximity and have significant cross coupling eff
 
 The FOSWEC was first developed as part of the [WEC-Sim project](https://wec-sim.github.io/WEC-Sim/main/index.html), and then adapted to perform tests more focused at fundamental dynamics and controls {% cite Coe:2020ab %}.
 In both cases, testing was performed at [Oregon State University's O.H. Hinsdale Wave Research Laboratory](https://engineering.oregonstate.edu/wave-lab).
-To support real-time control development, [digital twin of the FOSWEC](https://pmec-osu.github.io/FOSTWIN/) was developed.
+To support real-time control development, [a digital twin of the FOSWEC](https://pmec-osu.github.io/FOSTWIN/) was developed.
 The FOSWEC currently resides at [Oregon State University's O.H. Hinsdale Wave Research Laboratory](https://engineering.oregonstate.edu/wave-lab) is openly available for researchers to access.
 The real-time control software for the FOSWEC is available on [GitHub](https://github.com/PMEC-OSU/FOSWEC2).
 

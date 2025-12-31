@@ -8,9 +8,9 @@ category: work
 ---
 
 Since first learning to write papers with LaTeX in graduate school, I've refined my process considerably.
-Here's a list of best practices I've developed:
+Here's a list of best-practices I've developed:
 
-- Present a united value as, e.g., `$[1,2]$\,m$^2$`
+- Present a united value as, e.g., `1.2\,m$^2$`
   - Use the `\,` command for a small space between the value and the unit.
   - The unit is not italicized (outside the math environment — use superscripts carefully).
 - Labeling and referencing
@@ -38,6 +38,7 @@ Here's a list of best practices I've developed:
   ```
 
 - For display equations (those that appear on their own line), use commented lines (`%`) to maintain the current paragraph, if desired:
+
   ```latex
   ... we may therefore write
   %
@@ -46,4 +47,16 @@ Here's a list of best practices I've developed:
   \end{equation}
   %
   where b is..
+  ```
+
+- When presenting multiple equations together, take advantage of the `subequations` environment to get distinct labels for each equation:
+
+- ```latex
+  \begin{subequations}
+          \begin{align}
+                e_1 &= \gamma_{t} e_2 \label{eq:transformer_eom_01} \\
+                q_1 &= -\frac{1}{\gamma_t} q_2 \label{eq:transformer_eom_02}
+          \end{align}
+          \label{eq:transformer_eom}%
+  \end{subequations}
   ```

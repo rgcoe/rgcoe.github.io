@@ -9,8 +9,8 @@ giscus_comments: false
 related_publications: true
 ---
 
-With "advanced control" being spoken of in wave energy circles as a panacea for the technology's problems, our team set out to better understand the potential.
-To perform our investigation, we developed a heave-surge-pitch motion buoy dubbed the "WaveBot," which was tested during a series of campaigns at the US Navy's Maneuvering and Sea Keeping (MASK) basin at NSWC Carderock, in Bethesda, MD.
+With "advanced control" being spoken of in wave energy circles as a panacea for the technology's problems, Sandia set out to better understand the potential.
+To perform the investigation, we developed a heave-surge-pitch motion device dubbed the "WaveBot," which was tested during a series of campaigns at the US Navy's Maneuvering and Sea Keeping (MASK) basin at NSWC Carderock, in Bethesda, MD.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
