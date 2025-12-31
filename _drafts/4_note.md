@@ -13,3 +13,9 @@ However, there are some aspects of graduate school where we must agree to follow
 1. Document your work as if there's an auditor ready to check it when you finish
 1. When you receive comments/suggestions on a paper or other piece of work, make sure you understand the motivation behind each comment so that your next piece of work can benefit
 1. AI is a powerful tool, not as a magic box
+1. Be unafraid to admit you don't understand something and excited to learn
+
+Conversely, you as a student can expect me as an advisor to:
+
+1. Put your best interest first
+1. 
