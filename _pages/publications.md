@@ -17,6 +17,6 @@ nav_order: 4
 
 <div class="publications">
 
-{% bibliography --query @*[status!=review] %}
+{% bibliography --query @*[status!=review && mine!=false] %}
 
 </div>
