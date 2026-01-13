@@ -62,6 +62,16 @@ ninja.data = [{
           description: "write and collaborate more cleanly",
           section: "Notes",handler: () => {
               window.location.href = "/notes/3_note.html";
+            },},{id: "projects-auv-maneuvering",
+          title: 'AUV maneuvering',
+          description: "Maneuvering of autonomous underwater vehicles",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project.html";
+            },},{id: "projects-wecopttool",
+          title: 'WecOptTool',
+          description: "WEC design optimization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project.html";
             },},{id: "projects-pioneer-wec",
           title: 'Pioneer WEC',
           description: "wave energy for ocean observing",
