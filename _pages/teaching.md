@@ -20,8 +20,8 @@ Introduction to the design of ocean vehicles and offshore structures with spefic
     </div>
 </div>
 
-# (Advanced) Ship dynamics (AOE 3234, AOE 5334)
+# (Advanced) Ocean vehicle dynamics (AOE 3234, AOE 5334)
 
-Analysis of motions of rigid body vehicles in water, including influence of added mass and buoyancy.
-Seakeeping motion responses in waves, wave-induced structural loads, random response analysis via spectral analysis, and extreme response analysis.
-Introduction to hydroelasticity and maneuvering.
+Analysis of motions of rigid body vehicles in water, including influence of added mass and buoyancy;
+seakeeping motion responses in waves, wave-induced structural loads, random response analysis via spectral analysis, and extreme response analysis;
+introduction to hydroelasticity and maneuvering.
