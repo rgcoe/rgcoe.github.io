@@ -57,6 +57,11 @@ ninja.data = [{
           description: "making your work more useful for others (and the future you)",
           section: "Notes",handler: () => {
               window.location.href = "/notes/1_note.html";
+            },},{id: "notes-macos-set-up",
+          title: 'macOS set-up',
+          description: "Setting up a mac for scientific computing",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/2_note.html";
             },},{id: "notes-latex-best-practices",
           title: 'LaTeX best-practices',
           description: "write and collaborate more cleanly",
