@@ -51,7 +51,7 @@ Here's a list of best-practices I've developed:
 
 - When presenting multiple equations together, take advantage of the `subequations` environment to get distinct labels for each equation:
 
-- ```latex
+  ```latex
   \begin{subequations}
           \begin{align}
                 e_1 &= \gamma_{t} e_2 \label{eq:transformer_eom_01} \\
@@ -60,3 +60,7 @@ Here's a list of best-practices I've developed:
           \label{eq:transformer_eom}%
   \end{subequations}
   ```
+
+- When producing distribution, consider some relatively simple steps to [make the resulting PDF accessible](https://en.wikipedia.org/wiki/PDF/UA):
+  - [The LaTeX project guide](https://latex3.github.io/tagging-project/documentation/usage-instructions)
+  - [Overleaf guide](https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility)
