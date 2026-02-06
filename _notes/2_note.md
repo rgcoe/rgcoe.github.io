@@ -25,7 +25,7 @@ Here's a list of the key Formulas and Casks I've installed:
 - [MacTeX](https://www.tug.org/mactex/): Allows you to compile LaTeX documents
 - [Skim](https://skim-app.sourceforge.io): PDF viewer that works well with Sublime Text's LaTeXTools package. Don't forget to enable syncing for Sublime Text in the Settings.
 - [BibDesk](https://bibdesk.sourceforge.io): Excellent tool for BibTex files
-- [Ipe](https://ipe.otfried.org): Excellent drawing tool for making diagrams, especially when you want to inlcude LaTeX symbols/equations. To get Ipe to compile LaTeX on the most recent versions of macOS (not sure when this issue started...), I have needed to create an `~/.ipe/ipe.config` file with explicitly showing the path for (e.g., `IPELATEXPATH=/Library/TeX/texbin`). For reference, see
+- [Ipe](https://ipe.otfried.org): Excellent drawing tool for making diagrams, especially when you want to include LaTeX symbols/equations. To get Ipe to compile LaTeX on the most recent versions of macOS (not sure when this issue started...), I have needed to create an `~/.ipe/ipe.config` file with explicitly showing the path for (e.g., `IPELATEXPATH=/Library/TeX/texbin`). For reference, see
   - <https://github.com/otfried/ipe/issues/526>
   - <https://otfried.github.io/ipe/80_advanced.html#ipe-conf>
 - [Gimp](https://www.gimp.org): Photoshop alternative
@@ -52,7 +52,7 @@ Make sure you set up the [command line interface](https://www.sublimetext.com/do
 # Sublime Merge
 
 I'm capable of using git from the command line, but for more complex operations a GUI is very handy.
-While VS Code has very good built-in capabilities and extensions, I stll like [Sublime Merge](https://www.sublimemerge.com) for certain things.
+While VS Code has very good built-in capabilities and extensions, I still like [Sublime Merge](https://www.sublimemerge.com) for certain things.
 
 # Python
 

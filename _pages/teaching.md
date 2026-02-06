@@ -9,7 +9,7 @@ nav_order: 5
 
 # Introduction to Ocean Engineering (AOE 2204)
 
-Introduction to the design of ocean vehicles and offshore structures with speficic topics including buoyancy, hull geometry, body plan drawing, coefficients of form, hydrostatic calculations, intact and damaged stability, large angle stability, stability criteria for design and related rules and regulations, and marine economics.
+Introduction to the design of ocean vehicles and offshore structures with specific topics including buoyancy, hull geometry, body plan drawing, coefficients of form, hydrostatic calculations, intact and damaged stability, large angle stability, stability criteria for design and related rules and regulations, and marine economics.
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
