@@ -30,7 +30,7 @@ latest_posts:
 
 # Coe lab group
 
-Our research group is interested in ocean engineering problems with a focus on system design, fluid dynamics, autonomous systems, and renewable energy.
+Our research group is interested in ocean engineering and naval architecture problems with a focus on system design, fluid dynamics, autonomous systems, and renewable energy.
 We apply "control co-design" approaches to consider holistic system performance.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
