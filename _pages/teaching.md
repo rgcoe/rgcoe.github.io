@@ -7,20 +7,17 @@ nav: true
 nav_order: 5
 ---
 
-# Introduction to Ocean Engineering (AOE 2204)
+# AOE 2204: Introduction to ocean engineering
 
 Introduction to the design of ocean vehicles and offshore structures with specific topics including buoyancy, hull geometry, body plan drawing, coefficients of form, hydrostatic calculations, intact and damaged stability, large angle stability, stability criteria for design and related rules and regulations, and marine economics.
 
-<div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lighthouse.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DDG71.jpg" title="DDG-71" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+# AOE 5304: Advanced naval architecture
 
-# (Advanced) Ocean vehicle dynamics (AOE 3234, AOE 5334)
+Engineering analysis methods for evaluating the hydrostatic, hydrodynamic, and structural characteristics of surface ships and submarines;
+methods employed in ship design include analytical, statistical, and experimental approaches;
+both hull and propulsor analysis techniques are covered.
+
+# AOE 3234/5334: (Advanced) Ocean vehicle dynamics
 
 Analysis of motions of rigid body vehicles in water, including influence of added mass and buoyancy;
 seakeeping motion responses in waves, wave-induced structural loads, random response analysis via spectral analysis, and extreme response analysis;
