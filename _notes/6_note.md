@@ -9,8 +9,8 @@ category: work
 
 | Scholarship / Resource                                                                    | Description                                                                                                            |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Virginia Space Grant Consortium (VSGC)](https://vsgc.odu.edu/)                           | Supports Virginia STEM students with research, internships, and fellowships (sometimes in the ocean!).                 |
-| [Virginia Sea Grant](https://virginiaseagrant.org/)                                       | Funds research, education, and outreach on coastal and marine issues in Virginia.                                      |
+| [Virginia Space Grant Consortium (VSGC)](https://vsgc.odu.edu/)                           | Supports Virginia STEM students (sometimes Ocean!) with research, internships, and fellowships.                        |
+| [Virginia Sea Grant](https://vaseagrant.org)                                              | Funds research, education, and outreach on coastal and marine issues in Virginia.                                      |
 | [DoD SMART Scholarship](https://www.smartscholarship.org/)                                | Science, Mathematics, and Research for Transformation—scholarships for STEM students with DoD service commitment.      |
 | [DoD NDSEG Fellowship](https://ndseg.org/)                                                | National Defense Science and Engineering Graduate Fellowship supporting US citizens pursuing STEM PhDs.                |
 | [NSF GRFP](https://www.nsfgrfp.org/)                                                      | National Science Foundation Graduate Research Fellowship Program supporting graduate study in STEM and STEM education. |
