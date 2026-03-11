@@ -67,6 +67,11 @@ ninja.data = [{
           description: "write and collaborate more cleanly",
           section: "Notes",handler: () => {
               window.location.href = "/notes/3_note.html";
+            },},{id: "notes-student-opportunities",
+          title: 'student opportunities',
+          description: "scholarships, workshops, research internships",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/6_note.html";
             },},{id: "projects-auv-maneuvering",
           title: 'AUV maneuvering',
           description: "Maneuvering of autonomous underwater vehicles",
