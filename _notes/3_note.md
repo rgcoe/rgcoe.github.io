@@ -61,6 +61,6 @@ Here's a list of best-practices I've developed:
   \end{subequations}
   ```
 
-- When producing distribution, consider some relatively simple steps to [make the resulting PDF accessible](https://en.wikipedia.org/wiki/PDF/UA):
+- When producing distribution, consider some relatively simple steps to [make the resulting PDF accessible](https://en.wikipedia.org/wiki/PDF/UA). I found the following guides most helpful. I have not _yet_ been able to get this to work with the `listings` package (this is [a well-known problem](https://github.com/latex3/tagging-project/issues/70#issuecomment-2005126960)).
   - [The LaTeX project guide](https://latex3.github.io/tagging-project/documentation/usage-instructions)
   - [Overleaf guide](https://www.overleaf.com/learn/latex/An_introduction_to_tagged_PDF_files%3A_internals_and_the_challenges_of_accessibility)
