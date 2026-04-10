@@ -1,20 +1,36 @@
 $(document).ready(function () {
-  // add toggle functionality to abstract, award and bibtex buttons
-  $("a.abstract").click(function () {
-    $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+  // Toggle ABS/BIB panels rendered below the links row.
+  $(".details-toggle-btn").on("click", function () {
+    const targetId = $(this).data("target");
+    if (!targetId) {
+      return;
+    }
+
+    const $entry = $(this).closest(".row");
+    const $panels = $entry.find(".details-panels .details-content");
+    const $target = $entry.find("#" + targetId);
+    const wasHidden = $target.prop("hidden");
+
+    $panels.prop("hidden", true);
+    if (wasHidden) {
+      $target.prop("hidden", false);
+    }
   });
-  $("a.award").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+
+  // Keep only one publication details panel open per entry.
+  $("details.details-toggle").on("toggle", function (event) {
+    if (!this.open) {
+      return;
+    }
+
+    const $links = $(this).closest(".links");
+    $links.find("details.details-toggle").each(function () {
+      if (this !== event.currentTarget) {
+        this.open = false;
+      }
+    });
   });
-  $("a.bibtex").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
-  });
+
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc
