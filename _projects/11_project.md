@@ -1,8 +1,8 @@
 ---
 layout: page
 title: WecOptTool
-description: WEC design optimization
-img: #assets/img/WecOptTool_iopage.png
+description: wave energy converter design optimization
+img: assets/img/WecOptTool_iopage_blurred.png
 importance: 8
 category: current
 giscus_comments: false
