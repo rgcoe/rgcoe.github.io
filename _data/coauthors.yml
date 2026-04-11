@@ -82,6 +82,14 @@
   - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen", "Carlos A. Michelén"]
     url: https://energy.sandia.gov/staff/carlos-michelen/
 
+"michelén":
+  - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelén"]
+    url: https://energy.sandia.gov/staff/carlos-michelen/
+
+"ströfer michelén":
+  - firstname: ["Carlos", "Carlos A."]
+    url: https://energy.sandia.gov/staff/carlos-michelen/
+
 "cho":
   - firstname: ["Hancheol"]
     url: https://yonsei.elsevierpure.com/en/persons/hancheol-cho
@@ -150,6 +158,18 @@
   - firstname: ["Mike", "Michael", "Michael J."]
     url: https://research-hub.nrel.gov/en/persons/michael-lawson
 
-"zuo":
-  - firstname: ["Shangyan", "S"]
+"zou":
+  - firstname: ["Shangyan", "S", "S."]
     url: https://www.mtu.edu/mechanical-aerospace/people/faculty/zou/
+
+"ferri":
+  - firstname: ["Francesco"]
+    url: https://vbn.aau.dk/en/persons/ffer/
+
+"rij":
+  - firstname: ["Jennifer Van", "Jennifer", "Jennifer A. Van"]
+    url: https://engineering.usu.edu/mae/people/faculty/vanrij-jennifer
+
+"van rij":
+  - firstname: ["Jennifer", "Jennifer A."]
+    url: https://engineering.usu.edu/mae/people/faculty/vanrij-jennifer
