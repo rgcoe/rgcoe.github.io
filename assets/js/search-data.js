@@ -79,9 +79,14 @@ ninja.data = [{
               window.location.href = "/projects/10_project.html";
             },},{id: "projects-wecopttool",
           title: 'WecOptTool',
-          description: "WEC design optimization",
+          description: "wave energy converter design optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project.html";
+            },},{id: "projects-ship-design-optimization",
+          title: 'Ship design optimization',
+          description: "modern tools to design modern naval vessels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project.html";
             },},{id: "projects-pioneer-wec",
           title: 'Pioneer WEC',
           description: "wave energy for ocean observing",
