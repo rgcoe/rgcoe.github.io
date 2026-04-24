@@ -79,7 +79,7 @@
     url: https://energy.sandia.gov/staff/carlos-michelen/
 
 "strofer":
-  - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen", "Carlos A. Michelén"]
+  - firstname: ["Carlos", "Carlos A.", "Carlos A. Michelen", "Carlos A. Michelén", "Carlos Michelen"]
     url: https://energy.sandia.gov/staff/carlos-michelen/
 
 "michelén":
@@ -88,6 +88,10 @@
 
 "michelén ströfer":
   - firstname: ["Carlos", "Carlos A."]
+    url: https://energy.sandia.gov/staff/carlos-michelen/
+
+"michelen strofer":
+  - firstname: ["Carlos", "Carlos A.", "Carlos"]
     url: https://energy.sandia.gov/staff/carlos-michelen/
 
 "cho":
@@ -173,3 +177,7 @@
 "van rij":
   - firstname: ["Jennifer", "Jennifer A."]
     url: https://engineering.usu.edu/mae/people/faculty/vanrij-jennifer
+
+"ringwood":
+  - firstname: ["John", "John V.", "John V"]
+    url: https://www.maynoothuniversity.ie/people/john-ringwood
