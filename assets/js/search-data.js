@@ -68,7 +68,7 @@ ninja.data = [{
           section: "Notes",handler: () => {
               window.location.href = "/notes/3_note.html";
             },},{id: "notes-student-opportunities",
-          title: 'student opportunities',
+          title: 'Student opportunities',
           description: "scholarships, workshops, research internships",
           section: "Notes",handler: () => {
               window.location.href = "/notes/6_note.html";
