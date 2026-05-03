@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/notes/1_note.html";
             },},{id: "notes-macos-set-up",
           title: 'macOS set-up',
-          description: "Setting up a mac for scientific computing",
+          description: "setting up a mac for scientific computing",
           section: "Notes",handler: () => {
               window.location.href = "/notes/2_note.html";
             },},{id: "notes-latex-best-practices",
@@ -74,7 +74,7 @@ ninja.data = [{
               window.location.href = "/notes/6_note.html";
             },},{id: "projects-auv-maneuvering",
           title: 'AUV maneuvering',
-          description: "Maneuvering of autonomous underwater vehicles",
+          description: "maneuvering of autonomous underwater vehicles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project.html";
             },},{id: "projects-wecopttool",
