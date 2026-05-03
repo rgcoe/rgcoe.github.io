@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AUV maneuvering
-description: Maneuvering of autonomous underwater vehicles
+description: maneuvering of autonomous underwater vehicles
 img: assets/img/auv_cfd_zig_zag.png
 importance: 8
 category: past

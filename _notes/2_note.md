@@ -1,7 +1,7 @@
 ---
 layout: page
 title: macOS set-up
-description: Setting up a mac for scientific computing
+description: setting up a mac for scientific computing
 img: assets/img/12.jpg
 importance: 2
 category: work
