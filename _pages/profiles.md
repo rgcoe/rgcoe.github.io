@@ -15,7 +15,7 @@ profiles:
     content: about_ryan.md
     image_circular: false # crops the image to make it circular
     more_info:
-    socials:
+    socials: # use as many or few of these as you like
       email: ryancoe@vt.edu
       orcid_id: 0000-0003-0738-3772
       scholar_userid: i6ahrYgAAAAJ # your Google Scholar ID
