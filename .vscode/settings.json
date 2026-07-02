@@ -8,14 +8,18 @@
     "Forbush",
     "FOSWEC",
     "Gaebele",
+    "Giorgio",
     "Grasberger",
     "Haselsteiner",
     "Hinsdale",
+    "hydroelasticity",
     "Keow",
     "mechatronics",
     "Michelen",
     "MIMO",
     "NREL",
+    "NLR",
+    "propulsor",
     "SIWEED",
     "Strofer",
     "Wanchese",
@@ -23,5 +27,6 @@
   ],
   "[liquid]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "workbench.colorTheme": "Visual Studio Light"
 }
