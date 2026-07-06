@@ -23,6 +23,21 @@ profiles:
       scopus_id: 55532590700 # your profile on Scopus
 
   - align: left
+    name: Ian Hermanson
+    image: prof_ian.jpg
+    content: about_ian.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+    socials: # use as many or few of these as you like
+      email: ianhermanson@vt.edu
+      # orcid_id:
+      # scholar_userid: # your Google Scholar ID
+      # github_username:
+      # research_gate_profile:
+      linkedin_username: ian-hermanson # your LinkedIn user name
+      # scopus_id: # your profile on Scopus
+
+  - align: left
     content: about_new.md
 
   # - align: left
