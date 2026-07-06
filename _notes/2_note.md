@@ -52,7 +52,7 @@ Make sure you set up the [command line interface](https://www.sublimetext.com/do
 # Sublime Merge
 
 I'm capable of using git from the command line, but for more complex operations a GUI is very handy.
-While VS Code has very good built-in capabilities and extensions, I still like [Sublime Merge](https://www.sublimemerge.com) for certain things.
+While VS Code now has built-in capabilities and extensions that are likely as good or better, I still like [Sublime Merge](https://www.sublimemerge.com) for certain things.
 
 # Python
 
