@@ -28,6 +28,7 @@ In both cases, testing was performed at [Oregon State University's O.H. Hinsdale
 To support real-time control development, [a digital twin of the FOSWEC](https://pmec-osu.github.io/FOSTWIN/) was developed.
 The FOSWEC currently resides at [Oregon State University's O.H. Hinsdale Wave Research Laboratory](https://engineering.oregonstate.edu/wave-lab) is openly available for researchers to access.
 The real-time control software for the FOSWEC is available on [GitHub](https://github.com/PMEC-OSU/FOSWEC2).
+The FOSWEC continues to provide an excellent platform for research on mutli-body WECs {%cite Grasberger:2026aa %}.
 
 ## Other resources
 
