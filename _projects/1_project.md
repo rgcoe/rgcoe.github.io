@@ -47,7 +47,7 @@ A series of bench testing campaigns helped to refine numerical models for perfor
 
 Based on testing and analysis of the v0 design, an inverted pendulum variant was selected for the v1 prototype {% cite Keow:2026aa %}.
 This system uses a magnetic spring designed by researchers from [Portland State University](https://www.pdx.edu) to couple the inverted pendulum to the buoy.
-The Pioneer WEC v1 prototype was deployed on November 2nd, 2025 on the [Central Surface Mooring](https://oceanobservatories.org/site/cp10cnsm/) within the Pioneer Array and is slated to be recovered in May, 2026.
+The Pioneer WEC v1 prototype was deployed on November 2nd, 2025 on the [Central Surface Mooring](https://oceanobservatories.org/site/cp10cnsm/) within the Pioneer Array and was recovered on May 1st, 2026 {%cite Coe:2026aa %}.
 You can view Pioneer WEC v1 prototype's performance via an [online dashboard](https://sandialabs.github.io/pioneer_wec_dashboard).
 
 <div class="row">
