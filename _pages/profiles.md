@@ -32,7 +32,7 @@ profiles:
       email: ianhermanson@vt.edu
       # orcid_id:
       # scholar_userid: # your Google Scholar ID
-      # github_username:
+      github_username: ianherm
       # research_gate_profile:
       linkedin_username: ian-hermanson # your LinkedIn user name
       # scopus_id: # your profile on Scopus
