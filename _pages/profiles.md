@@ -30,7 +30,7 @@ profiles:
     more_info:
     socials: # use as many or few of these as you like
       email: ianhermanson@vt.edu
-      # orcid_id:
+      orcid_id: 0009-0007-7275-533X
       # scholar_userid: # your Google Scholar ID
       github_username: ianherm
       # research_gate_profile:
