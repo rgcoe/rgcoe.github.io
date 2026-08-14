@@ -30,7 +30,7 @@ Low power periods, due to lulls in wind/solar energy and/or damage to generation
 
 Sandia, in partnership with [Woods Hole Oceanographic Institution](https://www.whoi.edu), [NREL](https://www.nlr.gov), [Evergreen Innovations](https://teamer-us.org/facility/evergreen-innovations/), [Johns Hopkins University](https://www.jhu.edu), [Monterey Bay Aquarium Research Institute](https://www.mbari.org), and [East Carolina University Coastal Studies Institute](https://www.coastalstudiesinstitute.org), was tasked with developing a wave energy converter to supplement the OOI Pioneer Array's [Central Surface Mooring](https://oceanobservatories.org/site/cp10cnsm/) with additional power {% cite Coe:2023aa %}.
 The deployment site for the Pioneer Array off the coast of Cape Hatteras, NC experiences relatively modest waves, except during hurricanes, with an average significant wave height of \~1.5m {% cite Grasberger:2025ab %}.
-Based on the need to maximize modularity and minimize the impact of the wave energy converter on the existing system design, an innovative "pitch resonator" wave energy concept was developed {% cite Devin:2024aa Keow:2025aa %}.
+Based on the need to maximize modularity and minimize the impact of the wave energy converter on the existing system design, an innovative "pitch resonator" wave energy concept was developed {% cite Coe:2024aa Devin:2024aa Keow:2025aa %}.
 A series of bench testing campaigns helped to refine numerical models for performance prediction, control tuning, and future design improvements {%cite Coe:2024ab Lee:2025aa Liu:2025aa %}.
 
 <div class="row">
@@ -47,7 +47,7 @@ A series of bench testing campaigns helped to refine numerical models for perfor
 
 Based on testing and analysis of the v0 design, an inverted pendulum variant was selected for the v1 prototype {% cite Keow:2026aa %}.
 This system uses a magnetic spring designed by researchers from [Portland State University](https://www.pdx.edu) to couple the inverted pendulum to the buoy.
-The Pioneer WEC v1 prototype was deployed on November 2nd, 2025 on the [Central Surface Mooring](https://oceanobservatories.org/site/cp10cnsm/) within the Pioneer Array and is slated to be recovered in May, 2026.
+The Pioneer WEC v1 prototype was deployed on November 2nd, 2025 on the [Central Surface Mooring](https://oceanobservatories.org/site/cp10cnsm/) within the Pioneer Array and was recovered on May 1st, 2026 {%cite Coe:2026aa %}.
 You can view Pioneer WEC v1 prototype's performance via an [online dashboard](https://sandialabs.github.io/pioneer_wec_dashboard).
 
 <div class="row">

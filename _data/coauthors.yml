@@ -177,3 +177,19 @@
 "ringwood":
   - firstname: ["John", "John V.", "John V"]
     url: https://www.maynoothuniversity.ie/people/john-ringwood
+
+"stilwell":
+  - firstname: ["Dan"]
+    url: https://marinerobotics.centers.vt.edu/people/stilwell.html
+
+"tagliafierro":
+  - firstname: ["Bonaventura"]
+    url: https://www.uu.se/en/contact-and-organisation/staff?query=N22-1666
+
+"crespo":
+  - firstname: ["Alejandro", "Alejandro J. C.", "Alejandro JC"]
+    url: https://ephyslab.uvigo.es/en/dr-alejandro-jacobo-cabrera-crespo-2/
+
+"shifat":
+  - firstname: ["Tanvir", "Tanvir Alam"]
+    url: https://tashifat.github.io
