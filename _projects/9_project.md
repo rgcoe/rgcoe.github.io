@@ -11,7 +11,7 @@ related_publications: true
 
 The [Sandia wave energy power take-off (SWEPT) Lab](https://energy.sandia.gov/facilities/sandia-wave-energy-power-take-off-swept-laboratory/) grew out of experience gained with the [WaveBot](/projects/8_project).
 Wave tank testing could be substantially de-risked and amplified by performing bench testing of the PTO and control system.
-Furthermore, if the bench test was designed to replicate the hydrodynamic elements of the system, much the benefit garnered from wave tank testing could be obtained on the bench {% cite Bacelli:2019aa %}.
+Furthermore, if the bench test was designed to replicate the hydrodynamic elements of the system, much the benefit garnered from wave tank testing could be obtained on the bench {% cite Bacelli:2019aa Coe:2023ab %}.
 Based on these findings, the SWEPT Lab was designed to perform bench testing on a wide range of wave energy archetypes.
 
 ## Other resources
