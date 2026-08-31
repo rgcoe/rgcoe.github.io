@@ -11,7 +11,7 @@ images:
 ---
 
 The Sandia Integrated Wave Energy Educational Display (SIWEED) is a fish tank sized wave tank and wave energy converter (WEC) designed to support outreach and education.
-The WEC itself is based loosely on the [WaveBot](/projects/8_project/).
+The WEC itself is based loosely on the [WaveBot]({% link _projects/8_project.md %}).
 An interactive touch screen graphic user interface allows the user to control the waves and the WEC's feedback controller and experiment with some of the basic concepts developed by our team's research {% cite Coe:2021ab %}.
 This intern-led project was presented at at White House event titled "American Possibilities" in November, 2023 and was reviewed by President Joe Biden.
 The project is available for replication based on a [GitHub repository](https://github.com/SNL-WaterPower/siweed) and a journal paper: {% cite Ross:2025aa %}.
