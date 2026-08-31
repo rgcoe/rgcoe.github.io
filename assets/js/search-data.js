@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-after-many-years-of-wonderful-work-at-sandia-national-labs-i-will-be-moving-to-virginia-tech-in-january-2026",
+        },{id: "news-after-many-years-of-wonderful-work-at-sandia-national-labs-i-will-be-moving-to-virginia-tech-in-january-2026",
           title: 'After many years of wonderful work at Sandia National Labs, I will be...',
           description: "",
           section: "News",},{id: "notes-reproducible-papers",
