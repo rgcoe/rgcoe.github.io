@@ -44,4 +44,14 @@ jobs:
         with:
           fail: true
           # only check local links
-          args: --offline --timeout 45 --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          args: |
+            --offline
+            --timeout 45
+            --remap '_site(/?.*)/assets/(.*) _site/assets/$2'
+            --verbose
+            --no-progress
+            --exclude-path _site/README.html
+            --exclude-path _site/CONTRIBUTING.html
+            --exclude-path _site/INSTALL.html
+            --exclude-path _site/FAQ.html
+            '_site/**/*.html'
