@@ -11,3 +11,4 @@ related_publications: false
 
 This project explores ship design optimization by combining physics-based modeling, simulation, and modern numerical methods to evaluate design tradeoffs for vessels that must perform a variety of missions that will evolve over the life the ship.
 Within the optimization problem, we make use of models that provide analytic gradients, enabling fast gradient-based search and more efficient exploration of large design spaces.
+When possible, mission-level fitness and cost are considered.
