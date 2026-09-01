@@ -24,7 +24,7 @@ profiles:
 
   - align: left
     name: Ian Hermanson
-    image: prof_ian.jpg
+    image: prof_anon.jpg
     content: about_ian.md
     image_circular: false # crops the image to make it circular
     more_info:
