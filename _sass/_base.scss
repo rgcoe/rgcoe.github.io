@@ -1240,6 +1240,9 @@ nav[data-toggle="toc"] {
 }
 
 swiper-container {
+  display: block;
+  padding-bottom: 1.5rem;
+  --swiper-pagination-bottom: 0;
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
