@@ -11,7 +11,6 @@ profiles:
     name: Ryan G. Coe
     image: prof_ryan.jpg
     content: about_ryan.md
-    image_circular: false # crops the image to make it circular
     more_info:
     socials: # use as many or few of these as you like
       email: ryancoe@vt.edu
@@ -26,7 +25,6 @@ profiles:
     name: Ian Hermanson
     image: Ian_Headshot.jpg
     content: about_ian.md
-    image_circular: false # crops the image to make it circular
     more_info:
     socials: # use as many or few of these as you like
       email: ianhermanson@vt.edu
@@ -35,6 +33,20 @@ profiles:
       github_username: ianherm
       # research_gate_profile:
       linkedin_username: ian-hermanson # your LinkedIn user name
+      # scopus_id: # your profile on Scopus
+
+  - align: left
+    name: Jeremy John
+    image: prof_jeremy.jpg
+    content: about_jeremy.md
+    more_info:
+    socials: # use as many or few of these as you like
+      email: jeremy.john@vt.edu
+      orcid_id: 0009-0001-3112-0836
+      scholar_userid: BWwOvScAAAAJ&hl
+      github_username: jer-j
+      research_gate_profile: Jeremy-John-7
+      linkedin_username: jer-j # your LinkedIn user name
       # scopus_id: # your profile on Scopus
 
   - align: left
